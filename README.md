@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/renatosoca">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=1&pause=1000&color=4DB5FF&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Renato+Soca" 
-         alt="Typing SVG" 
-         title="Título de Inicio"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=1&pause=1000&color=4DB5FF&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Renato+Soca" alt="Typing SVG" title="Título de Inicio" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=4DB5FF&center=true&width=435&height=45&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollador+Mobile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=4DB5FF&center=true&width=435&height=45&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollador+Mobile" alt="Typing SVG" />
+  </a>
 </p>
 
 <details open> <summary><h2>📘 Mi Top de Proyectos</h2></summary>
