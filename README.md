@@ -1,12 +1,13 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollador+Mobile&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&color=4DB5FF&center=true&width=440&height=45&lines=Renato+Soca" alt="Typing SVG" />
+  </a>
 </p>
 
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&color=4DB5FF&center=true&width=435&height=45&lines=Renato+Soca" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollador+Mobile&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
 </p>
 
 <details open> <summary><h2>📘 Mi Top de Proyectos</h2></summary>
