@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://github.com/renatosoca">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=25&duration=1&pause=1000&color=4DB5FF&center=true&vCenter=true&repeat=false&width=450&height=32&lines=Renato+Soca" 
-         alt="Renato Soca" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=1&pause=1000&color=4DB5FF&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Renato+Soca" 
+         alt="Typing SVG" 
+         title="Título de Inicio"/>
   </a>
 </p>
 
