@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/renatosoca">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=1&color=4DB5FF&center=true&repeat=false&width=500&lines=Renato+Soca" >
+    <img src="https://readme-typing-svg.demolab.com?    
+              font=Lobster&size=25&duration=1&pause=1000&color=4DB5FF&center=true&vCenter=true&repeat=false&width=450&height=32&lines=Renato+Soca"
+         alt="Renato Soca"
+         title="Título"/>
   </a>
 </p>
 
