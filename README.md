@@ -49,7 +49,7 @@
 
 <!-- Mis Tecnologias -->
 <details open> <summary><h2>👨‍💻 Mis Herramientas de Trabajo</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <!-- Pagina para los iconos https://ileriayo.github.io/markdown-badges/#table-of-contents -->
    
   <h2>Frontend</h2>
   <p>
