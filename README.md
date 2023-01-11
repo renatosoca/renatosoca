@@ -13,14 +13,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollador+Mobile&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
 </p>
 
-<!-- Seccion de Iconos de Redes Sociales -->
-<p align="center">
-  <a href="https://www.youtube.com/@renatosoca"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/RenatoSoca"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
 <!-- Sección de Proyectos -->
 <details open> <summary><h2>📘 Mi Top de Proyectos</h2></summary>
 
