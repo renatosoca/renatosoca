@@ -31,6 +31,10 @@
     <a href="https://github.com/renatosoca/Gestion_Proyectos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Proyectos&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
      <!-- 6to Proyecto -->
     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Portafolio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
+     <!-- 7to Proyecto -->
+     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Cotizador-Prestamos-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cotizador Prestamos"></a>
+     <!-- 8to Proyecto -->
+     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Admins-Pacientes-Frontend&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Pacientes"></a>
   </p>
    
   <!-- Boton para ver todos mis proyectos -->
