@@ -44,7 +44,7 @@
 </details>
 
 <!-- Mis Tecnologias -->
-<details open> <summary><h2>👨‍💻 Mis Herramientas de Trabajo</h2></summary>
+<details open> <summary><h2>👨‍💻 Las Tecnologias que Domino</h2></summary>
   <!-- Pagina para los iconos https://ileriayo.github.io/markdown-badges/#table-of-contents -->
    
   <h2>Frontend</h2>
