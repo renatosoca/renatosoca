@@ -32,9 +32,9 @@
      <!-- 6to Proyecto -->
     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Portafolio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
      <!-- 7to Proyecto -->
-     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Cotizador-Prestamos-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cotizador Prestamos"></a>
+     <a href="https://github.com/renatosoca/Cotizador-Prestamos-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Cotizador-Prestamos-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cotizador Prestamos"></a>
      <!-- 8to Proyecto -->
-     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Admins-Pacientes-Frontend&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Pacientes"></a>
+     <a href="https://github.com/renatosoca/Admins-Pacientes-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Admins-Pacientes-Frontend&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Pacientes"></a>
   </p>
    
   <!-- Boton para ver todos mis proyectos -->
@@ -58,7 +58,6 @@
   <h2>Backend</h2>
   <p>
       <a href="#"><img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="Express Js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
