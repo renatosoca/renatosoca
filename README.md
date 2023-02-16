@@ -14,7 +14,7 @@
 </p>
 
 <!-- Sección de Proyectos -->
-<details open> <summary><h2>📘 Mi Top de Proyectos</h2></summary>
+<details open> <summary><h2>📘 Mis Principales Proyectos</h2></summary>
 
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -44,7 +44,7 @@
 </details>
 
 <!-- Mis Tecnologias -->
-<details open> <summary><h2>👨‍💻 Las Tecnologias que Domino</h2></summary>
+<details open> <summary><h2>👨‍💻 Mis Tecnologías</h2></summary>
   <!-- Pagina para los iconos https://ileriayo.github.io/markdown-badges/#table-of-contents -->
    
   <h2>Frontend</h2>
@@ -67,7 +67,22 @@
    <h2>Mobile</h2>
    
    <p>
+      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
   </p>
+   
+</details>
+
+<!-- Actividad en GitHub -->
+<details> <summary><h2>👨‍💻 Actividad en GitHub </h2></summary>
+   
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadistica de mi GitHub" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=renatosoca&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF" height="200px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lenguajes Utilizados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosoca&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF&hide_progress=true&hide=Hack" height="200px"/>
+   </a>
+   
+   <br/>
+   
+   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Actividad Gráfica" src="https://github-readme-activity-graph.cyclic.app/graph/?username=renatosoca&bg_color=1F222E&color=4DB5FF&line=4DB5FF&point=FFFFFF&hide_border=true" /></a>
    
 </details>
