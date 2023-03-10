@@ -19,7 +19,8 @@
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-     <!-- 1er Proyecto -->
+     <a href="https://github.com/renatosoca/Pet_Center-Frontend-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Frontend-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="FrontEnd"></a>
+     <a href="https://github.com/renatosoca/Pet_Center-Backend-Node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Backend-Node&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="FrontEnd"></a>
    <a href="https://github.com/renatosoca/Gestion_Citas-Hospital"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Citas-Hospital&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Gestion Citas"></a> 
      <!-- 2do Proyecto -->
     <a href="https://github.com/renatosoca/Administracion_Gimasio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Administracion_Gimasio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Gimnacio"></a> 
@@ -33,8 +34,6 @@
     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Portafolio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
      <!-- 7to Proyecto -->
      <a href="https://github.com/renatosoca/Cotizador-Prestamos-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Cotizador-Prestamos-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cotizador Prestamos"></a>
-     <!-- 8to Proyecto -->
-     <a href="https://github.com/renatosoca/Admins-Pacientes-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Admins-Pacientes-Frontend&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Pacientes"></a>
   </p>
    
   <!-- Boton para ver todos mis proyectos -->
