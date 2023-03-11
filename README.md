@@ -10,7 +10,7 @@
 <!-- Auto Tipado Sub Título -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Full+Stack;Desarrollador+Mobile&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Full+Stack;Est.+de+ingenieria+de+sistemas&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
 </p>
 
 
@@ -31,7 +31,7 @@
 </details>
 
 <!-- Sección de Proyectos en PHP, JS vanilla, WebPack, SASS -->
-<details open> <summary><h2>📘 Mi Top de Proyecto en PHP con Js vanilla/h2></summary>
+<details open> <summary><h2>📘 Mi Top de Proyecto en PHP con Js vanilla</h2></summary>
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
