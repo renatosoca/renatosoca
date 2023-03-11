@@ -13,27 +13,15 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Full+Stack;Desarrollador+Mobile&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
 </p>
 
-<!-- Sección de Proyectos -->
-<details open> <summary><h2>📘 Mi Top de Proyecto MERN</h2></summary>
 
+<!-- Sección de Proyectos -->
+<details open> <summary><h2>📘 Mi Top de Proyecto con React y Node</h2></summary>
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
      <a href="https://github.com/renatosoca/Pet_Center-Frontend-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Frontend-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="FrontEnd"></a>
      <a href="https://github.com/renatosoca/Pet_Center-Backend-Node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Backend-Node&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Backend"></a>
-   <a href="https://github.com/renatosoca/Gestion_Citas-Hospital"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Citas-Hospital&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Gestion Citas"></a> 
-     <!-- 2do Proyecto -->
-    <a href="https://github.com/renatosoca/Administracion_Gimasio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Administracion_Gimasio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Gimnacio"></a> 
-     <!-- 3er Proyecto -->
-    <a href="https://github.com/renatosoca/E-commerce-PHP/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=E-commerce-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="E commerce"></a>
-     <!-- 4to Proyecto -->
-    <a href="https://github.com/renatosoca/Ventas_Inventario-Ferreteria"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Ventas_Inventario-Ferreteria&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Sistema Ventas"></a>
-     <!-- 5to Proyecto -->
-    <a href="https://github.com/renatosoca/Gestion_Proyectos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Proyectos&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
-     <!-- 6to Proyecto -->
-    <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Portafolio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
-     <!-- 7to Proyecto -->
-     <a href="https://github.com/renatosoca/Cotizador-Prestamos-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Cotizador-Prestamos-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cotizador Prestamos"></a>
+     <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Portafolio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
   </p>
    
   <!-- Boton para ver todos mis proyectos -->
@@ -42,28 +30,18 @@
   </a>
 </details>
 
-<!-- Sección de Proyectos -->
-<details open> <summary><h2>📘 Mi Top de Proyecto PHP</h2></summary>
-
+<!-- Sección de Proyectos en PHP, JS vanilla, WebPack, SASS -->
+<details open> <summary><h2>📘 Mi Top de Proyecto en PHP con Js vanilla/h2></summary>
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-     <a href="https://github.com/renatosoca/Pet_Center-Frontend-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Frontend-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="FrontEnd"></a>
-     <a href="https://github.com/renatosoca/Pet_Center-Backend-Node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Backend-Node&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Backend"></a>
-   <a href="https://github.com/renatosoca/Gestion_Citas-Hospital"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Citas-Hospital&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Gestion Citas"></a> 
+     <a href="https://github.com/renatosoca/Gestion_Citas-Hospital"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Citas-Hospital&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Gestion Citas"></a> 
      <!-- 2do Proyecto -->
     <a href="https://github.com/renatosoca/Administracion_Gimasio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Administracion_Gimasio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Gimnacio"></a> 
      <!-- 3er Proyecto -->
     <a href="https://github.com/renatosoca/E-commerce-PHP/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=E-commerce-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="E commerce"></a>
-     <!-- 4to Proyecto -->
-    <a href="https://github.com/renatosoca/Ventas_Inventario-Ferreteria"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Ventas_Inventario-Ferreteria&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Sistema Ventas"></a>
-     <!-- 5to Proyecto -->
-    <a href="https://github.com/renatosoca/Gestion_Proyectos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Proyectos&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
-     <!-- 6to Proyecto -->
-    <a href="https://github.com/renatosoca/Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Portafolio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
-     <!-- 7to Proyecto -->
-     <a href="https://github.com/renatosoca/Cotizador-Prestamos-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Cotizador-Prestamos-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cotizador Prestamos"></a>
-  </p>
+     <a href="https://github.com/renatosoca/Gestion_Proyectos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Proyectos&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
+     </p>
    
   <!-- Boton para ver todos mis proyectos -->
   <a href="https://github.com/renatosoca?tab=repositories">
@@ -102,7 +80,7 @@
 </details>
 
 <!-- Actividad en GitHub -->
-<details> <summary><h2>👨‍💻 Actividad en GitHub </h2></summary>
+<details> <summary><h2>👨‍💻 Mi actividad en GitHub</h2></summary>
    
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadistica de mi GitHub" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=renatosoca&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF" height="190px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lenguajes Utilizados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosoca&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF&hide_progress=false&hide=Hack" height="190px"/>
