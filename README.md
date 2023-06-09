@@ -94,6 +94,6 @@
    <br/>
    
    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Actividad Gráfica" src="https://github-readme-activity-graph.cyclic.app/graph/?username=renatosoca&bg_color=1F222E&color=4DB5FF&line=4DB5FF&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Actividad Gráfica" src="https://github-readme-activity-graph.vercel.app/graph?username=renatosoca&bg_color=1F222E&color=4DB5FF&line=4DB5FF&point=FFFFFF&hide_border=true" /></a>
    
 </details>
