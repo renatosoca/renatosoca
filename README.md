@@ -36,19 +36,21 @@
 </details>
 
 <!-- Sección de Proyectos en PHP, JS vanilla, WebPack, SASS -->
-<details open> <summary><h2>📘 Mi Top de Proyecto en PHP con Js vanilla</h2></summary>
+<details open> <summary><h2>📘 Mi Top de Proyecto en PHP, JS y SASS</h2></summary>
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
      <!-- 1er Proyecto -->
-    <a href="https://github.com/renatosoca/Administracion_Gimasio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Administracion_Gimasio&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Admins Gimnacio"></a> 
+    <a href="https://github.com/renatosoca/Gestion_Citas_Medicas-PH"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Citas_Medicas-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Gestión de Citas Médicas"></a> 
      <!-- 2do Proyecto -->
-     <a href="https://github.com/renatosoca/Gestion_Proyectos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Proyectos&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mantenimientor"></a>
+     <a href="https://github.com/renatosoca/Projetify-PHP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Projetify-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Gestor de Proyectos"></a> 
+     <!-- 3er Proyecto -->
+     <a href="https://github.com/renatosoca/DevWebCamp-PHP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=DevWebCamp-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Gestor de Conferencias para Dev's"></a>
      </p>
    
-  <!-- Boton para ver todos mis proyectos -->
-  <a href="https://github.com/renatosoca?tab=repositories">
-    <img alt="Mis Repositorios" title="Todos mis Repositorios" src="https://custom-icon-badges.demolab.com/badge/-Clic%20Aqu%C3%AD%20Para%20Ver%20Todos%20Mis%20Repositorios-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
+  <!-- Boton para ver todos mis proyectos en PHP -->
+  <a href="https://github.com/renatosoca?tab=repositories&q=&type=&language=php&sort=">
+    <img alt="Mis Repositorios" title="Todos mis repositorios en PHP" src="https://custom-icon-badges.demolab.com/badge/-Clic%20Aqu%C3%AD%20Para%20Ver%20Todos%20Mis%20Repositorios%20en%20PHP-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
 
